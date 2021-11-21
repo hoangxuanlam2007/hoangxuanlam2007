@@ -3,5 +3,5 @@
 
 
 
-> hoangxuanlam2007: just a ✨ normal student ✨ who love writing code with GitHub...
+> I'm just a ✨ normal student ✨ who love writing code with GitHub...
 
