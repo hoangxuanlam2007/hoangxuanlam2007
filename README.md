@@ -3,10 +3,11 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 A **YOUNG** WEB DEVELOPMENT Enthusiast 🚀
+>Oh, btw, I already have a girlfriend 🙂
 
 - I'm just a student, who likes anime and enthusiastic about technology like **coding** or **designing** and even **editing** stuffs, but really lazy `¯\_(ツ)_/¯`.
 - 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
-- 🤔 My interest lies in front end web development.
+- 🤔 My interest lies in Front-End Web Development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [chim31102007@gmail.com](mailto:chim31102007@gmail.com).
 
