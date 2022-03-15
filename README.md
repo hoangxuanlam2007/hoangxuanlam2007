@@ -1,11 +1,11 @@
-# Hi, I'm`Xuân Lâm` or you can call me `Chimmyw` 👋
-
+<h1 align="center">   Hi, I'm Xuân Lâm or you can call me "Chimmyw" 👋<br/></h1> 
+     
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 A **YOUNG** WEB DEVELOPMENT Enthusiast 🚀
 
 - I'm just a student, who likes anime and enthusiastic about technology like **coding** or **designing** and even **editing** stuffs, but really lazy `¯\_(ツ)_/¯`.
-- 🌱 I’m currently exploring ReactJS with a big interest in Back-end and I'm looking forward to becoming a Full-Stack Developer. 
+- 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [chim31102007@gmail.com](mailto:chim31102007@gmail.com).
@@ -29,10 +29,11 @@ A **YOUNG** WEB DEVELOPMENT Enthusiast 🚀
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
-<hr/>
+------
 
 # My activities
 
+<div align="center">
 <a href="https://github.com/hoangxuanlam2007">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=hoangxuanlam2007&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
@@ -43,9 +44,13 @@ A **YOUNG** WEB DEVELOPMENT Enthusiast 🚀
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
+</div><br/>
 
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
-
+<div align="center">
+<h3>🌟 STAR THE REPOS IF YOU LIKE 🌟<br/><br/></h3>
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangxuanlam2007" alt="FahimFBA" /></p>
+</div><br/>
+  
 ------
 **Author: [Xuân Lâm](https://github.com/hoangxuanlam2007)**
-**Feel free to give me a ⭐.**
