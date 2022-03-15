@@ -41,7 +41,6 @@ A **YOUNG** WEB DEVELOPMENT Enthusiast 🚀
 </a>
 <a href="https://github.com/hoangxuanlam2007">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangxuanlam2007&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
 
 <div>
   <img src="https://raw.githubusercontent.com/hoangxuanlam2007/hoangxuanlam2007/main/snake.svg" alt="snake"></center>
@@ -53,6 +52,8 @@ A **YOUNG** WEB DEVELOPMENT Enthusiast 🚀
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangxuanlam2007" alt="Xuân Lâm" /></p>
 </div><br/>
-  
+</a>
+
 ------
+
 **Author: [Xuân Lâm](https://github.com/hoangxuanlam2007)**
