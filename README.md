@@ -44,7 +44,7 @@ A **YOUNG** WEB DEVELOPMENT Enthusiast 🚀
 </a>
 
 <div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/hoangxuanlam2007/hoangxuanlam2007/main/snake.svg" alt="snake"></center>
 </div>
 </div><br/>
 
