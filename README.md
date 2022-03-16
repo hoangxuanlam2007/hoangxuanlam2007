@@ -1,7 +1,8 @@
 <h1 align="center">   Hi, I'm Xuân Lâm or you can call me "Chimmyw" 👋<br/></h1> 
      
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-A **WEB DEVELOPMENT** Enthusiast 🚀
+A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
+
 >Oh, btw, I already have a girlfriend 🙂.<br/>
 > Her Facebook [(Click me)](https://www.facebook.com/wuynnycnhatt).
 
