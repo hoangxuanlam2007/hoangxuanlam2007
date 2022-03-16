@@ -9,7 +9,7 @@ A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 - I'm just a student, who likes anime and enthusiastic about technology like **coding** or **designing** and even **editing** stuffs, but really lazy `¯\_(ツ)_/¯`.
 - 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
 - 🤔 My interest lies in Front-End Web Development.
-- 💬 Ask me about anything, I love to answer!
+- 💬 Ask me about anything, I'd love to answer!
 - 📫 Email me at [chim31102007@gmail.com](mailto:chim31102007@gmail.com).
 
 ### What I'm currently learning 📓:
