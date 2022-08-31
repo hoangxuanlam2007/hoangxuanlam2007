@@ -19,7 +19,7 @@
 > Her Facebook [(Click me)](https://www.facebook.com/wuynnycnhatt).
 
 - I'm just a highschool student, who likes anime and enthusiastic about technology like **coding** or **designing** and even **editing** stuffs, but really lazy `¯\_(ツ)_/¯`.
-- 🌱 I’m currently exploring Python. I have a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
+- 🌱 I’m currently learning Python. I have a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
 - 🤔 My interest lies in Front-End Web Development.
 - 💬 Ask me about anything, I'd love to answer!
 - 📫 Email me at [chim31102007@gmail.com](mailto:chim31102007@gmail.com).
