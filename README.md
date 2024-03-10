@@ -15,9 +15,6 @@
 <a href="https://github.com/hoangxuanlam2007"><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></a>
 <h3>- Hi, I'm Xuân Lâm or you can call me "Chimmyw" 👋</h3> 
 
->Oh, btw, I already have a girlfriend 🙂.<br/>
-> Her Facebook [(Click me)](https://www.facebook.com/wuynnycnhatt).
-
 - I'm just a highschool student, who likes anime and enthusiastic about technology like **coding** or **designing** and even **editing** stuffs, but really lazy `¯\_(ツ)_/¯`.
 - 🌱 I’m currently learning Python. I have a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
 - 🤔 My interest lies in Front-End Web Development.
