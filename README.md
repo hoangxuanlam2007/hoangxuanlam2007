@@ -101,7 +101,7 @@
 </br></br>
 
 
-<center>
+<div align="center">
 <h2>:notes: Apple Music recently played
 </br></br>
 
@@ -113,7 +113,7 @@ ___
     <summary>Spotify Recently played</summary>
     <a href="https://open.spotify.com/user/s0g6at52x914qj9ifbgc3ldj9"><img src="https://spotify-recently-played-readme.vercel.app/api?user=s0g6at52x914qj9ifbgc3ldj9&unique=true&count=10" alt="Spotify recently played"></a>
 </details><br/>
-</center>
+</div>
 
 
 <div align="center">
