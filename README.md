@@ -140,7 +140,7 @@ ___
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/hoangxuanlam2007/hoangxuanlam2007/main/github_profile_img/snake.svg" alt="snake"></center>
+  <img src="https://github.com/hoangxuanlam2007/hoangxuanlam2007/blob/main/github_profile_img/snake.svg" alt="snake"></center>
 </div>
 
 <div align="center" ><img alt="" width="100%" src="https://github.com/hoangxuanlam2007/hoangxuanlam2007/blob/main/assets/footer.png"></div>
