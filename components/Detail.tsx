@@ -53,21 +53,6 @@ const Detail: React.FC<{}> = () => {
             <div className="flex text-right mr-2 ml-3">{time}&nbsp;<span className="opacity-75">&#40;GMT+7&#41;</span></div>
         </div>
 
-        <div className="flex flex-row justify-between items-center mb-1">
-            <div className="flex justify-start py-2 px-1 items-center gap-x-3">
-                <span className="text-xl"><GoMail /></span>
-                Email:
-            </div>
-            <div className="text-right mr-2 ml-3 truncate">chim31102007@gmail.com</div>
-        </div>
-
-        <div className="flex flex-row justify-between items-center mb-1">
-            <div className="flex justify-start py-2 px-1 items-center gap-x-3">
-                <span className="text-xl"><GoMail /></span>
-                Email:
-            </div>
-            <div className="text-right mr-2 ml-3 truncate">hoangxuanlam2007@outlook.com</div>
-        </div>
         
         <div className="flex flex-row justify-between items-center mb-1">
             <div className="flex justify-start py-2 px-1 items-center gap-x-3">
@@ -85,6 +70,22 @@ const Detail: React.FC<{}> = () => {
             <div className="text-right mr-2 ml-3 truncate">hoangxuanlam2007</div>
         </div>
 
+        <div className="flex flex-row justify-between items-center mb-1">
+            <div className="flex justify-start py-2 px-1 items-center gap-x-3">
+                <span className="text-xl"><GoMail /></span>
+                Email:
+            </div>
+            <div className="text-right mr-2 ml-3 truncate">chim31102007@gmail.com</div>
+        </div>
+
+        <div className="flex flex-row justify-between items-center mb-1">
+            <div className="flex justify-start py-2 px-1 items-center gap-x-3">
+                <span className="text-xl"><GoMail /></span>
+                Email:
+            </div>
+            <div className="text-right mr-2 ml-3 truncate">hoangxuanlam2007@outlook.com</div>
+        </div>
+        
       </div>
     </section>
   );
