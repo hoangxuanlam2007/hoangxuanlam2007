@@ -24,7 +24,7 @@ const Navbar: React.FC<{}> = () => {
           <div
             title="Report a bug"
             onClick={() => window.open("https://github.com/hoangxuanlam2007/hoangxuanlam2007/issues/new")}
-            className="transition-all duration-200 ease-linear z-[1] bg-transparent text-2xl padding-48 cursor-pointer bg-black hover:bg-[#f02626] rounded-xl  text-white py-2 px-5"
+            className="transition-all duration-200 ease-linear z-[1] bg-[#00000085] text-2xl cursor-pointer bg-black hover:bg-[#f02626] rounded-xl  text-white p-3"
           >
             <IoBugSharp />
           </div>
