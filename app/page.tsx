@@ -1,5 +1,6 @@
 import About from "@/components/About";
 import Detail from "@/components/Detail";
+import TechStack from "@/components/Tech-stack";
 import Banner from "@/components/Banner";
 import Experience from "@/components/Experience";
 import Footer from "@/components/Footer";
@@ -12,6 +13,7 @@ export default function Home() {
         <Banner />
         <About />
         <Detail />
+        <TechStack />
         <Experience />
         <Projects />
         <Footer />
