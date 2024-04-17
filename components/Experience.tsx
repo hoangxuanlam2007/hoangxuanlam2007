@@ -28,7 +28,7 @@ const Experience: React.FC<{}> = () => {
           <br />
           In the summer of 2023, I had the fortune of joining a Minecraft server, where I continued to learn and develop. Eventually, I coded two plugins using Kotlin Maven instead of Java, a significant achievement for me when diving into Object-Oriented Programming. At the moment, I&#x2019;m really excited to keep learning and trying out different programming languages.
         </p>
-        <div className="flex flex-row content-around">
+        <div className="flex flex-row content-around flex-wrap">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             React
           </div>

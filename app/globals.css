@@ -16,3 +16,10 @@
   object-fit: cover;
   border-radius: 10px;
 }
+
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-right: 0 !important;
+}
