@@ -14,7 +14,8 @@
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.0.1",
-    "sharp": "^0.33.0"
+    "sharp": "^0.33.0",
+    "sweetalert2": "^11.10.8"
   },
   "devDependencies": {
     "@react-three/drei": "^9.92.1",

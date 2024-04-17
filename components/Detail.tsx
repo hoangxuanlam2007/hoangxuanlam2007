@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from "react";
 
 import moment from 'moment';
+import Swal from 'sweetalert2';
 
 import { IoLocationSharp } from "react-icons/io5";
 import { MdOutlineWorkOutline } from "react-icons/md";
@@ -20,6 +21,42 @@ const Detail: React.FC<{}> = () => {
         }, 1000);
         return () => clearInterval(interval);
         }, []);
+
+    const copyText = (event: React.MouseEvent<HTMLDivElement, MouseEvent>) => {
+        const text = event.currentTarget.textContent || '';
+        if (navigator.clipboard) {
+            navigator.clipboard.writeText(text)
+                .then(() => {
+                    Swal.fire({
+                        icon: 'success',
+                        title: 'Copied to clipboard',
+                        showConfirmButton: false,
+                        timer: 1500
+                    });
+                })
+                .catch((error) => {
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'Failed to copy',
+                        text: error.message
+                    });
+                });
+        } else {
+            // Fallback for browsers that don't support the Clipboard API
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+            Swal.fire({
+                icon: 'success',
+                title: 'Copied to clipboard',
+                showConfirmButton: false,
+                timer: 1500
+            });
+        }
+    };
 
   return (
     <section
@@ -75,7 +112,7 @@ const Detail: React.FC<{}> = () => {
                 <span className="text-xl"><GoMail /></span>
                 Email:
             </div>
-            <div className="text-right mr-2 ml-3 truncate">chim31102007@gmail.com</div>
+            <div className="text-right mr-2 ml-3 truncate cursor-pointer" onClick={copyText}>chim31102007@gmail.com</div>
         </div>
 
         <div className="flex flex-row justify-between items-center mb-1">
@@ -83,9 +120,9 @@ const Detail: React.FC<{}> = () => {
                 <span className="text-xl"><GoMail /></span>
                 Email:
             </div>
-            <div className="text-right mr-2 ml-3 truncate">hoangxuanlam2007@outlook.com</div>
+            <div className="text-right mr-2 ml-3 truncate cursor-pointer" onClick={copyText}>hoangxuanlam2007@outlook.com</div>
         </div>
-        
+
       </div>
     </section>
   );
