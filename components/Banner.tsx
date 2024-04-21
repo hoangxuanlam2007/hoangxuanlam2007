@@ -40,7 +40,7 @@ const Banner: React.FC<{}> = () => {
         <div className="text-md flex justify-center flex-col mt-2 gap-y-5">
           <button
             onClick={() => window.open("https://www.facebook.com/xuanlam.ne/")}
-            className="transition-all ease-linear z-[1] padding-20 hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent "
+            className="transition-all ease-linear z-[1] hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent "
           >
             <span className="flex align-middle content-center justify-center items-center gap-x-2">
               <FiFacebook className="socialIcon" /> Facebook 1
@@ -48,7 +48,7 @@ const Banner: React.FC<{}> = () => {
           </button>
           <button
             onClick={() => window.open("https://www.facebook.com/ch1mmm/")}
-            className="transition-all ease-linear z-[1] padding-20 hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent "
+            className="transition-all ease-linear z-[1] hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent "
           >
             <span className="flex align-middle content-center justify-center items-center gap-x-2">
               <FiFacebook className="socialIcon" /> Facebook 2
@@ -56,7 +56,7 @@ const Banner: React.FC<{}> = () => {
           </button>
           <button
             onClick={() => window.open("https://www.instagram.com/xuanlam.ne_/")}
-            className="transition-all ease-linear z-[1] padding-20 hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent "
+            className="transition-all ease-linear z-[1] hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent "
           >
             <span className="flex align-middle content-center justify-center items-center gap-x-2">
               <FaInstagram className="socialIcon" /> Instagram
@@ -64,7 +64,7 @@ const Banner: React.FC<{}> = () => {
           </button>
           <button
             onClick={() => window.open("https://github.com/hoangxuanlam2007")}
-            className="transition-all ease-linear z-[1] padding-20 hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent "
+            className="transition-all ease-linear z-[1] hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent "
           >
             <span className="flex align-middle content-center justify-center items-center gap-x-2">
               <FaGithub className="socialIcon" /> Github
