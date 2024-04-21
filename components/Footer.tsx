@@ -35,9 +35,9 @@ const Footer: React.FC<{}> = () => {
             href={"https://www.facebook.com/xuanlam.ne/"}
             rel="noopener noreferrer"
             target="_blank"
-            className="transition-all ease-linear z-[1] hover:bg-white rounded-3xl text-white font-semibold hover:text-black p-1 hover:border-transparent mx-2"
+            className="transition-all ease-linear z-[1] text-white font-semibold p-1 mx-3"
           >
-            <span className="flex align-middle content-center justify-center items-center gap-x-2">
+            <span className="flex align-middle content-center justify-center items-center">
               <FiFacebook className="socialIcon footer" />
             </span>
           </Link>
@@ -45,9 +45,9 @@ const Footer: React.FC<{}> = () => {
             href={"https://www.facebook.com/ch1mmm/"}
             rel="noopener noreferrer"
             target="_blank"
-            className="transition-all ease-linear z-[1] hover:bg-white rounded-3xl text-white font-semibold hover:text-black p-1 hover:border-transparent mx-2"
+            className="transition-all ease-linear z-[1] text-white font-semibold p-1 mx-3"
           >
-            <span className="flex align-middle content-center justify-center items-center gap-x-2">
+            <span className="flex align-middle content-center justify-center items-center">
               <FiFacebook className="socialIcon footer" />
             </span>
           </Link>
@@ -55,9 +55,9 @@ const Footer: React.FC<{}> = () => {
             href={"https://www.instagram.com/xuanlam.ne_/"}
             rel="noopener noreferrer"
             target="_blank"
-            className="transition-all ease-linear z-[1] hover:bg-white rounded-3xl text-white font-semibold hover:text-black p-1 hover:border-transparent mx-2"
+            className="transition-all ease-linear z-[1] text-white font-semibold p-1 mx-3"
           >
-            <span className="flex align-middle content-center justify-center items-center gap-x-2">
+            <span className="flex align-middle content-center justify-center items-center">
               <FaInstagram className="socialIcon footer" />
             </span>
           </Link>
@@ -65,9 +65,9 @@ const Footer: React.FC<{}> = () => {
             href={"https://github.com/hoangxuanlam2007"}
             rel="noopener noreferrer"
             target="_blank"
-            className="transition-all ease-linear z-[1] hover:bg-white rounded-3xl text-white font-semibold hover:text-black p-1 hover:border-transparent mx-2"
+            className="transition-all ease-linear z-[1] text-white font-semibold p-1 mx-3"
           >
-            <span className="flex align-middle content-center justify-center items-center gap-x-2">
+            <span className="flex align-middle content-center justify-center items-center">
               <FaGithub className="socialIcon footer" />
             </span>
           </Link>

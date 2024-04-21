@@ -10,7 +10,7 @@ const TechStack: React.FC<{}> = () => {
       className="h-full relative overflow-hidden mt-[-5rem] px-5 z-20"
       style={{ transform: "scale(0.9" }}
     >
-      <div className="flex flex-col flex-wrap gap-5 mx-auto max-w-[900px] bg-neutral-800 p-4 pb-5 text-[#d1d5db] rounded-2xl">
+      <div className="flex flex-col flex-wrap gap-5 mx-auto max-w-[900px] bg-[#1D232A] p-4 pb-5 text-[#d1d5db] rounded-2xl">
         <div className="text-xl text-center flex flex-row justify-center items-center align-center content-center gap-3"><FaCode />Tech Stack</div>
         <div className="flex flex-row flex-wrap justify-center content-center gap-3">
             <div className="px-3 py-1 rounded-full bg-[#6B76F0] text-black cursor-pointer">HTML</div>

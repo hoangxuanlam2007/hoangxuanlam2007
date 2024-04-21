@@ -3,10 +3,10 @@ import React from "react";
 const Experience: React.FC<{}> = () => {
   return (
     <section id="experience" className="z-20 px-5">
-      <h1 className="text-white font-semibold text-center text-6xl pt-[35px] z-20">
+      <h1 className="text-white font-semibold text-center text-5xl md:text-6xl pt-[35px] z-20">
         MY JOURNEY
       </h1>
-      <p className=" tracking-[0.5em] text-center text-transparent font-medium pb-5  bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500  text-1xl ">
+      <p className=" tracking-[0.5em] text-center text-transparent font-medium pb-5  bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500 text-1xl">
         MY CODING JOURNEY
       </p>
       <div className=" container mx-auto 2xl ">

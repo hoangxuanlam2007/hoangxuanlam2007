@@ -64,7 +64,7 @@ const Detail: React.FC<{}> = () => {
       className="h-full relative overflow-hidden mt-[-5rem] px-5 z-20"
       style={{ transform: "scale(0.9" }}
     >
-      <div className="mx-auto max-w-[900px] bg-neutral-800 p-4 text-[#d1d5db] rounded-2xl">
+      <div className="mx-auto max-w-[900px] bg-[#1D232A] p-4 text-[#d1d5db] rounded-2xl">
 
         <div className="flex flex-row justify-between items-center flex-wrap mb-1">
             <div className="flex justify-start py-2 px-1 items-center gap-x-3">

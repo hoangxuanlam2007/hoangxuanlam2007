@@ -5,6 +5,24 @@
 
 * {
   font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  scrollbar-width: thin;
+  color-scheme: dark;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+  background-color: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px #0000004d;
 }
 
 /* Social Icons */
@@ -13,12 +31,14 @@
 }
 
 .socialIcon.footer {
-  font-size: 28px;
+  font-size: 30px;
 }
 
 #projects img {
   object-fit: cover;
   border-radius: 10px;
+  width: 20vw;
+  height: auto;
 }
 
 .truncate {
