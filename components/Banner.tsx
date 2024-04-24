@@ -9,7 +9,7 @@ import { FaGithub } from "react-icons/fa";
 
 const Banner: React.FC<{}> = () => {
   return (
-    <div className="flex flex-row items-center justify-center px-10 mt-[100px] z-[20] ">
+    <div className="flex flex-row items-center justify-center px-10 mt-[70px] md:mt-[100px] z-[20] ">
       <div className="flex flex-col  justify-center  text-center">
         <div className="justify-center flex scale-90 md:scale-100">
           <Image

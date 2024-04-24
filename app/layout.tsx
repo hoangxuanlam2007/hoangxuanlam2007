@@ -8,14 +8,14 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    "https://google.com/"
+    "https://hoangxuanlam2007.vercel.app/"
   ),
   title: "Xuân Lâm",
-  description: "Personal website using Next.js by Lâm",
+  description: "Portfolio website using Next.js by Lâm",
   keywords: ["Coding", "Website", "Developer", "Xuân Lâm"],
   openGraph: {
     title: "Xuân Lâm",
-    description: "Personal website using Next.js by Lâm",
+    description: "Portfolio website using Next.js by Lâm",
     images: "/OpenGraph.png",
   },
 };
