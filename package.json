@@ -1,5 +1,5 @@
 {
-  "name": "xuanlam-personal-website",
+  "name": "hoangxuanlam2007-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.2.2",
+    "@vercel/speed-insights": "^1.0.10",
     "moment": "^2.30.1",
     "next": "14.0.4",
     "react": "^18",
