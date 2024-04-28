@@ -91,7 +91,7 @@
      
 </a>
 
-<h2>:books: My personal website (Not finished)</h2>
+<h2>:books: My Portfolio</h2>
 <a href="https://github.com/hoangxuanlam2007/hoangxuanlam2007">
     <img alt="link to the repository of my personal website" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=hoangxuanlam2007&repo=hoangxuanlam2007&theme=midnight-purple&hide_border=true">
 </a>
@@ -106,7 +106,7 @@
 <h2>:notes: Apple Music recently played
 </br></br>
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000244.7eaf6d7e31804c43a1033b746acd1bbe.1623)](https://github.com/rayriffy/apple-music-github-profile)
+[![Apple Music](https://music-profile.rayriffy.com/theme/dark.svg?uid=000244.7eaf6d7e31804c43a1033b746acd1bbe.1623)](https://github.com/rayriffy/apple-music-github-profile)
 
 ___
 
